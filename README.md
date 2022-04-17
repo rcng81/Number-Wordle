@@ -1,1 +1,1 @@
-# numberWordle
+# Mathdle
