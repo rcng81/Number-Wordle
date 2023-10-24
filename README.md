@@ -1,7 +1,14 @@
-# Mathdle
+# Mathdle 🧮
 
-Video overview on the game: https://www.youtube.com/watch?v=JYFGANhimME
+## Video 🎥
 
-I enjoyed making this game as I do wordle everyday. Allthough this isn't wordle, its mathdle, I enjoy the concept of guessing games and I think adding the math concepts into program, it made the game fresh and different.
+https://www.youtube.com/watch?v=JYFGANhimME
 
-As I mentioned in the video, I challenged with picking a max value. Another challenge that I didn't mention was setting up the colors to match the expressions. This was hard as I had to make multiple functions to represent the color as shown in the output results. I had to use for loops to compare the generated expression with the colors so that the user would know what guesses were close or not.
+Welcome to mathdle, an engaging game inspired by the popular Wordle but with a mathematical twist! Solve daily math puzzles to keep your brain sharp and challenge yourself.
+
+## Game Features 🌟
+- **Unlimiited Math Challenges**: New puzzles every day to keep you engaged!
+- **Hint System**: Stuck? Has color coded hints similar to wordle.
+
+## Technologies Used 🛠️
+- Python
